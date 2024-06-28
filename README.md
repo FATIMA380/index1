@@ -49,7 +49,7 @@
         </ul>
     
 <div class="index-section">
-        <h2>Entrevistas</h2>
+        <h2>PODCAST</h2>
         <ul>
             <li><a href="PODCAST.html">PODCAST</a></li>
         </ul>
@@ -62,7 +62,7 @@
     </div>
 
 <div class="index-section">
-        <h2>Entrevistas</h2>
+        <h2>TORTUGAS</h2>
         <ul>
             <li><a href="Tortugas.html">Tortugas</a></li>
         </ul>
